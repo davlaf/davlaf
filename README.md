@@ -1,4 +1,11 @@
-### Hi there 👋
+## Welcome to my github!
+
+- I'm a high school student looking to build experience to get a job in computer engineering in the future. 
+- I'm currently learning Flutter/Dart to develop apps to create useful tools and help people in need.
+
+### How to reach me:
+
+- ✉️ contact@davlaf.com
 
 <!--
 **davlaf/davlaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
