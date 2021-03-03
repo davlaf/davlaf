@@ -1,10 +1,10 @@
 ## Welcome to my github!
 
-- I'm a high school student looking to build experience in programming and IT 
-- I aspire to become a software engineer in the near future
+- I'm a high school student looking to build experience in programming and IT. 
+- I aspire to become a software engineer in the near future!
 - I'm currently learning Flutter/Dart to develop apps to create useful tools and help people who need assistance.
 
-Link to my first a
+Link to my first android app: https://play.google.com/store/apps/details?id=com.davlaf.average_calculator
 
 ### How to reach me:
 
