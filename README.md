@@ -1,7 +1,10 @@
 ## Welcome to my github!
 
-- I'm a high school student looking to build experience to get a job in computer engineering in the future. 
-- I'm currently learning Flutter/Dart to develop apps to create useful tools and help people in need.
+- I'm a high school student looking to build experience in programming and IT 
+- I aspire to become a software engineer in the near future
+- I'm currently learning Flutter/Dart to develop apps to create useful tools and help people who need assistance.
+
+Link to my first a
 
 ### How to reach me:
 
